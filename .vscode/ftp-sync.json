@@ -1,0 +1,16 @@
+{
+    "remotePath": "/htdocs/myWeb",
+    "host": "rongnas.ddns.net",
+    "username": "rong",
+    "password": "12345",
+    "port": 21,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git"
+    ]
+}
